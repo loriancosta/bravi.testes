@@ -1,0 +1,15 @@
+D:\Projetos DEV\ConsoleApp.bravi.teste\bin\Debug\net6.0\ConsoleApp.bravi.teste.exe
+D:\Projetos DEV\ConsoleApp.bravi.teste\bin\Debug\net6.0\ConsoleApp.bravi.teste.deps.json
+D:\Projetos DEV\ConsoleApp.bravi.teste\bin\Debug\net6.0\ConsoleApp.bravi.teste.runtimeconfig.json
+D:\Projetos DEV\ConsoleApp.bravi.teste\bin\Debug\net6.0\ConsoleApp.bravi.teste.dll
+D:\Projetos DEV\ConsoleApp.bravi.teste\bin\Debug\net6.0\ConsoleApp.bravi.teste.pdb
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ConsoleApp.bravi.teste.csproj.AssemblyReference.cache
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ConsoleApp.bravi.teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ConsoleApp.bravi.teste.AssemblyInfoInputs.cache
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ConsoleApp.bravi.teste.AssemblyInfo.cs
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ConsoleApp.bravi.teste.csproj.CoreCompileInputs.cache
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ConsoleApp.bravi.teste.dll
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\refint\ConsoleApp.bravi.teste.dll
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ConsoleApp.bravi.teste.pdb
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ConsoleApp.bravi.teste.genruntimeconfig.cache
+D:\Projetos DEV\ConsoleApp.bravi.teste\obj\Debug\net6.0\ref\ConsoleApp.bravi.teste.dll
